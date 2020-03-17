@@ -12,7 +12,7 @@ on:
 
 env:
   # TODO: Change variable to your image's name.
-  IMAGE_NAME: python3.6-R3.6-devtools
+  IMAGE_NAME: python3.6-r3.6-devtools
 
 jobs:
 
